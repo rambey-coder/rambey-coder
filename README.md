@@ -6,7 +6,7 @@ const rambey = {
   
   code: [Javascript, Typescript, HTML, CSS, Dart],
   
-  tools: [React, Redux, Scss, Tailwindcss, Boostrap, GSAP, Nextjs,],
+  tools: [React, Redux, Scss, Tailwindcss, Boostrap, GSAP, Nextjs, Flutter],
   
   architecture: ["event-driven", "design system pattern"],
   
